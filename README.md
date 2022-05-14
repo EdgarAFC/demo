@@ -3,3 +3,7 @@
 This is a simple README file
 
 hi
+
+doin something
+
+going
